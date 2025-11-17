@@ -58,9 +58,9 @@ export const HeroSection = () => {
             <div className="text-sm font-medium"> Open for New Projects 🤝</div>
           </div>
           <div className="max-w-lg mx-auto">
-            <h1 className="font-serif text-3xl md:text-5x text-center mt-8 tracking-wide">Hi, I'm Ranto Marpaung👋</h1>
+            <h1 className="font-serif text-3xl md:text-5x text-center mt-8 tracking-wide">Hi, I am Ranto Marpaung👋</h1>
             <p className="mt-4 text-center text-white/60 md:text-lg">
-              I'm a frontend developer with a passion for creating beautiful and
+              I am a frontend developer with a passion for creating beautiful and
               functional websites.
             </p>
           </div>

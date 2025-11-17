@@ -54,7 +54,7 @@ export const AboutSection = () => {
               </h3>
               <div className="space-y-4 text-gray-300 leading-relaxed ">
                 <p>
-                  I'm <span className="text-cyan-400 font-semibold">Ranto</span>, a passionate web developer 
+                  I am <span className="text-cyan-400 font-semibold">Ranto Anjasmara Marpaung</span>, a passionate web developer 
                   dedicated to crafting exceptional digital experiences. With a keen eye for design and 
                   a love for clean code, I transform ideas into beautiful, functional websites.
                 </p>
@@ -64,7 +64,7 @@ export const AboutSection = () => {
                 <p>
                   I believe in writing code that is not only functional but also maintainable and 
                   scalable. Every project is an opportunity to learn something new and push the 
-                  boundaries of what's possible on the web.
+                  boundaries of what is possible on the web.
                 </p>
               </div>
             </div>
