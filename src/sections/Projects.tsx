@@ -22,7 +22,7 @@ const portfolioProjects = [
   },
   {
     company: "DetikCom",
-    year: "2021",
+    year: "2023",
     title: "DetikCom Frontend Design Assignment",
     results: [
       { title: "Implemented a responsive layout using modern CSS techniques" },
